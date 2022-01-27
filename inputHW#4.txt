@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+cin        << var;
+cout   >> var;
+cin<< var;
+cout>> var;
+cin >> var;
+cout << var;
+
+return 0;
+}

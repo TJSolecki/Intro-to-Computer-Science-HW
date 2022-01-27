@@ -1,0 +1,3 @@
+Thomas Solecki 10
+Joseph Smith 1 2 3
+Vick Garcia 10 10 10 10 1 10 10 10 10
